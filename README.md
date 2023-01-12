@@ -7,8 +7,7 @@
 ## <div align="center">Build a Webpage that Helps Enthusiasts Track UFO Activity using Javascript, HTML & CSS</div>
 
 <p align="center">
-<a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
-<a href="#dataset">Dataset</a> &nbsp;&bull;&nbsp;
+<a href="#goals">Goals</a>
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
 <a href="#results">Results</a> &nbsp;&bull;&nbsp;
@@ -24,10 +23,6 @@ After helping build a webpage with a dynamic table containing UFO data, the clie
 - CSS
 
 These tools will add in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. I'll build this table using data stored in a JavaScript array with filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing. Finally, I'll customize the webpage using Bootstrap, and equip the table with several fully functional filters that will allow users to interact with our visualizations.
-
-# <div align="center">Dataset</div>
-
-High level explanation of data source
 
 - [Data Set File Name:](data/data_source.format) Explain source of file, size of dataset and format
 
