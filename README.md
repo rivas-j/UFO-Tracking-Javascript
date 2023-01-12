@@ -24,8 +24,6 @@ After helping build a webpage with a dynamic table containing UFO data, the clie
 
 These tools will add in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. I'll build this table using data stored in a JavaScript array with filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing. Finally, I'll customize the webpage using Bootstrap, and equip the table with several fully functional filters that will allow users to interact with our visualizations.
 
-- [Data Set File Name:](data/data_source.format) Explain source of file, size of dataset and format
-
 # <div align="center">Tools Used</div>
 - **Javascript:** Programming language used for creating visually appealing and dynamic web content
 - **HTML:** Hypertext Markup Language used to build and design webpages
