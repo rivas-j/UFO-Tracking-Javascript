@@ -7,7 +7,7 @@
 ## <div align="center">Build a Webpage that Helps Enthusiasts Track UFO Activity using Javascript, HTML & CSS</div>
 
 <p align="center">
-<a href="#goals">Goals</a>
+<a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
 <a href="#tools-used">Tools Used</a> &nbsp;&bull;&nbsp;
 <a href="#analysis-and-challenges">Analysis and Challenges</a> &nbsp;&bull;&nbsp;
 <a href="#results">Results</a> &nbsp;&bull;&nbsp;
